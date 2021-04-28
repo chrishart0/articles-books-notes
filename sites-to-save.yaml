@@ -1,0 +1,89 @@
+---
+sites-to-save:
+  # - Name: 
+  #   Link: 
+  #   Summary: 
+  #   Category:
+  #   RSS-Feed: 
+
+  - Name: MartinFowler.com
+    Link: https://martinfowler.com/
+    Summary: Marin Fowler's blog on good software practices
+    Category: 
+      - Software
+      - Agile
+      - Blog
+    RSS-Feed: https://martinfowler.com/feed.atom
+
+  - Name: Automation Panda
+    Link: https://automationpanda.com/
+    Summary: Software development and testing
+    Category:
+      - Software
+      - Testing
+      - Blog
+    
+  - Name: Dilbert
+    Link: https://dilbert.com/
+    Summary: Comics about business 
+    Category:
+      - Comics
+  
+  - Name: Agile Manifesto
+    Link: https://agilemanifesto.org/
+    Summary: The agile manifesto
+    Category:  
+      - Software
+      - Agile
+
+  - Name: Scrum.org
+    Link: https://www.scrum.org/
+    Summary: Official site for SCRUM
+    Category:  
+      - Software
+      - Agile
+      - Scrum
+
+  - Name: TroyHunt.com
+    Link: https://www.troyhunt.com/
+    Summary: Troy Hunt's tech blog, creator of Have I been Pwned
+    Category:  
+      - Software
+
+  - Name: index-of.es
+    Link: http://index-of.es/
+    Summary: List of books and tutorials, mostly pre 2015
+    Category:
+      - Software
+      - Resources
+
+  - Name: CDK Patterns
+    Link: https://cdkpatterns.com/
+    Summary: List of completed projects which can be used for reference for the AWS CDK
+    Category:
+      - Software
+      - AWS
+      - DevOps
+      - IaC
+    
+  - Name: "Let's Play: Test-Driven Development"
+    Link: http://www.jamesshore.com/v2/projects/lets-play-tdd
+    Summary: A podcast screenplay about TDD with java
+    Category:
+    RSS-Feed:
+
+  - Name: Have I been pwnded
+    Category:
+      - Security
+      - Tool
+    Link: https://haveibeenpwned.com/
+    Summary: >
+      See if your information has turned up in a published hack
+
+  - Name: primephonic
+    Link: https://play.primephonic.com/
+    Category:
+      - Music
+    Summary: >
+      Symphony music streaming service 
+...
