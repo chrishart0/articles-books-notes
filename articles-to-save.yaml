@@ -144,4 +144,43 @@ articles-to-save:
     Summary: > 
       Overview of Definition of Done and Definition of Ready
     Year: 2018
+
+  - Title: An introduction to value stream mapping and analysis
+    Author: Jostein Langstrand
+    Blog: Digitala Vetenskapliga Arkivet
+    Category:  
+      - Lean
+      - VSM
+    Link: https://www.diva-portal.org/smash/get/diva2:945581/FULLTEXT01.pdf
+    Summary: > 
+      A good intro to VSM. Helped me to really understand how to make a VSM. Good definition of terms, a bit lacking on definitions of symbols.
+    Year: 2016
+    PDF: ./PDFs/An-introduction-to-vsm.pdf
+
+  - Title: Value Stream Mapping Symbols and Icons
+    Blog: Lucid Chart
+    Category:  
+      - Lean
+      - VSM
+    Link: https://www.lucidchart.com/pages/value-stream-mapping/value-stream-mapping-symbols
+    Summary: > 
+      Better overview of VSM symbols
+  - Title: What are NOT User Stories?
+    Blog: Serious Scrum
+    Category:
+      - Agile
+      - Scrum
+    Link: https://medium.com/serious-scrum/what-are-not-user-stories-85128be0c7bb
+    Summary: >
+      A good overview of how to write a user story. User story describes a real user's problem. It is up to the dev team to decide how to solve it. User Story does not prescribe how to solve the problem, although team members may add comments on potential solutions prior to starting.
+      A user story is not a task. "Setup backups for the application DB" is a task, not a user story. 
+      Examples of things which are note stories:
+        - "Technical requirement: As the Development Team, we want to update our Angular version to have the newest components."
+        - "Bugs: As a User, I want to ensure the Paypal payment works to pay my orders with Paypal."
+       - "Technical Debt: As the Development Team, we want to refactor the invoice code to maintain it."
+      "A good User Story should represent a problem to solve, instead of a solution to deliver."
+      “Your job isn’t to build more software faster: it’s to maximize the outcome and impact you get from what you choose to build.”
+      ― Jeff Patton, User Story Mapping: Discover the Whole Story, Build the Right Product
+      
+
 ...
