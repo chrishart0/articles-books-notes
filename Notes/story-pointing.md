@@ -60,6 +60,8 @@ Story points are by definition relative and unique to each team (thus comparing 
 * Story points themselves don't matter, a 3 on one team could be the same amount of effort as a 30 on another team
 * The team made up the amount of effort story points represent and then relate future values back to previously values. No one should be trying to compare one team's values to another
 
+## What to story point
+
 ## Tips and Gotchas
 ### Tips
 * Always send out your stories to the devs who will be taking part in refinement before it happens
