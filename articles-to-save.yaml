@@ -165,11 +165,13 @@ articles-to-save:
     Link: https://www.lucidchart.com/pages/value-stream-mapping/value-stream-mapping-symbols
     Summary: > 
       Better overview of VSM symbols
+
   - Title: What are NOT User Stories?
+    Author: David Pereira
     Blog: Serious Scrum
     Category:
       - Agile
-      - Scrum
+      - Story Pointing
     Link: https://medium.com/serious-scrum/what-are-not-user-stories-85128be0c7bb
     Summary: >
       A good overview of how to write a user story. User story describes a real user's problem. It is up to the dev team to decide how to solve it. User Story does not prescribe how to solve the problem, although team members may add comments on potential solutions prior to starting.
@@ -181,6 +183,24 @@ articles-to-save:
       "A good User Story should represent a problem to solve, instead of a solution to deliver."
       “Your job isn’t to build more software faster: it’s to maximize the outcome and impact you get from what you choose to build.”
       ― Jeff Patton, User Story Mapping: Discover the Whole Story, Build the Right Product
+    Year: 2020
       
+  - Title: Why Estimating Stories In Agile Is Painful, Part 1
+    Author: Tim Brizard
+    Blog: Blizzard Computing
+    Category:
+      - Agile
+      - Story Pointing
+    Link: https://blizzardcomputing.com/wp/blog/index.php/2016/06/27/why-estimating-stories-in-agile-is-painful-part-1/
+    Summary: >
+      - Stories should not be estimated in time, this never works well.
+      - Creating a "One size fits all" story pointing strategy in an organization never works well and will break relativity
+      - Relative sizing is how estimation should be handled. 
+          - Story points come from comparing the story to a "golden story" or another previously estimated story and deciding how much effort it is compared to the previous story.
+      - Don't over estimate. A team doesn't need to know every detail to estimate a story, it should be a quick and rough estimate. 
+      - Keep 3 things in mind when estimating a user story: risk, complexity, and effort.
+      - If your company is forcing you to estimate based on hours, don't use story points, drop them and just use hours.
+        - Fight this if you can
+    Year: 2016
 
 ...
