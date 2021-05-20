@@ -82,3 +82,4 @@ Watch out for the following
 * https://martinfowler.com/bliki/StoryPoint.html
 * https://www.scrum.org/resources/blog/myth-14-refinement-required-meeting-entire-scrum-team
 * Clean Agile by Robert C. Martin
+* https://blizzardcomputing.com/wp/blog/index.php/2016/06/27/why-estimating-stories-in-agile-is-painful-part-1/
