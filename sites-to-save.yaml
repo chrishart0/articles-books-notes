@@ -94,4 +94,15 @@ sites-to-save:
       - Education
     Summary: >
       A short course teaching you common tooling your probably missed in college. lectures such as "Shell Tools and Scripting", "Editors (Vim)", and "Debugging and Profiling" 
+  
+  - Name: Modernization Workshops from AWS
+    Link: https://awsworkshop.io/
+    Category:
+      - AWS
+      - DevOps
+      - Training
+    Summary: >
+      This website is a dedicated resource for curated workshops and training Modules created by the teams at AWS and AWS Partners. 
+      The workshops will teach you how to modernize various aspects of your business and provide you with detailed insight into what technology will drive this change.
+      
 ...
