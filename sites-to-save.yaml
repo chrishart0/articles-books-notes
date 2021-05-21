@@ -86,4 +86,12 @@ sites-to-save:
       - Music
     Summary: >
       Symphony music streaming service 
+
+  - Name: The Missing Semester of Your CS Education - MIT
+    Link: https://missing.csail.mit.edu/
+    Category:
+      - Software
+      - Education
+    Summary: >
+      A short course teaching you common tooling your probably missed in college. lectures such as "Shell Tools and Scripting", "Editors (Vim)", and "Debugging and Profiling" 
 ...
