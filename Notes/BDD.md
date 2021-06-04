@@ -22,6 +22,7 @@ BDD is a process which helps ensure the right thing is being delivered, as desir
     - https://cucumber.io/blog/bdd/example-mapping-introduction/
     - https://cucumber.io/docs/bdd/example-mapping/
     - https://www.youtube.com/watch?v=JuWEQsE7Hlo
+    - https://www.youtube.com/watch?v=VwvrGfWmG_U
   - https://johnfergusonsmart.com/feature-mapping-a-simpler-path-from-stories-to-executable-acceptance-criteria/
   - https://jennyjmar.com/2016/04/16/bdd-discovery-and-oopsi/
 
