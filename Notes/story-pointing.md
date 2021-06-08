@@ -1,8 +1,8 @@
 # Stories
 
+## What are Story points
+Story Points are a relative estimate of effort not an estimate of time. The goal of story points is to prevent teams from over committing to work.
 ## How to Estimate a Story (Story Pointing)
-Story Points are a relative estimate of effort not an estimate of time. The goal of story points is to allow a team to predict how much work they can get done. 
-
 Stories don't have to be estimated with points, it is often useful to think of stories as t-shirt sizes "s, m, l, xl." This helps keep the team from trying to tie story points back to some number of days
 * Example
     * 1 = extra small
@@ -10,6 +10,7 @@ Stories don't have to be estimated with points, it is often useful to think of s
     * 3 = medium 
     * 5 = large
     * 8 = extra large
+
 You don't want to allow for too many options, this will lead to analysis paralysis. Remember, story points are a rough estimate, we don't want to spend too much time trying to pick the perfect number. 
 
 ### If stories don't have to be estimated with points then why are they so commonly used?
@@ -60,15 +61,19 @@ Story points are by definition relative and unique to each team (thus comparing 
 * Story points themselves don't matter, a 3 on one team could be the same amount of effort as a 30 on another team
 * The team made up the amount of effort story points represent and then relate future values back to previously values. No one should be trying to compare one team's values to another
 
-## What to story point
+## To story point or not to story point, that is the question
 
 ## Tips and Gotchas
 ### Tips
+Speed up your refinement
 * Always send out your stories to the devs who will be taking part in refinement before it happens
+  * Note: Just because you send them out doesn't mean they will actually get reviewed
 
+Velocity as an experiment
+* One of the useful ways velocity can be used is, instead of measurement, use it for experiments. If each sprint is an experiment, then the velocity can be used to ask the questions we predicted x, but did y, what can we change? or what do we need to change to do  x + 1 in the next sprint. In a blame free culture, it can be a driver for improvement. This also takes away measuring velocity over many sprints. It becomes something relevant to this sprint and the next sprint.
 ### Gotchas
 #### Story Point Inflation
-If you notice that your velocity keeps going up it could be that you are experiencing point inflation. Make sure to reference back to those first stories. Does the amount of effort you estimated a 3 as line up to what you are currently estimating a 3 as? If not, why? 
+Have the value of your story points decreased? Make sure to reference back to those first stories. Does the amount of effort you estimated a 3 as line up to what you are currently estimating a 3 as? If not, why? It could be for a number of positive reasons such as reduced technical debt or increased efficiency or it could be story point inflation. 
 
 Watch out for the following
 * Management should not be using velocity as a metric 
