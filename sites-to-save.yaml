@@ -65,6 +65,15 @@ sites-to-save:
       - AWS
       - DevOps
       - IaC
+
+ - Name: CDK Construct Catalog
+    Link: https://awscdk.io/
+    Summary: List of completed projects which can be used for reference for the AWS CDK
+    Category:
+      - Software
+      - AWS
+      - DevOps
+      - IaC
     
   - Name: "Let's Play: Test-Driven Development"
     Link: http://www.jamesshore.com/v2/projects/lets-play-tdd
