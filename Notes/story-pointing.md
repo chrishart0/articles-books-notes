@@ -69,6 +69,8 @@ Speed up your refinement
 * Always send out your stories to the devs who will be taking part in refinement before it happens
   * Note: Just because you send them out doesn't mean they will actually get reviewed
 
+* Don't spend too much time debating estimates, they aren't worth it
+
 Velocity as an experiment
 * One of the useful ways velocity can be used is, instead of measurement, use it for experiments. If each sprint is an experiment, then the velocity can be used to ask the questions we predicted x, but did y, what can we change? or what do we need to change to do  x + 1 in the next sprint. In a blame free culture, it can be a driver for improvement. This also takes away measuring velocity over many sprints. It becomes something relevant to this sprint and the next sprint.
 ### Gotchas
@@ -82,6 +84,12 @@ Watch out for the following
     * This can easily happen after some time on a project
     * As a project grows larger, if a team did not spend sufficient time optimizing the architecture, writing tests, decoupling, ect, then each new feature will become more complex to write
         * If you notice the story points for what would have been a smaller story at the beginning going up this is a signal to tackle your technical debt 
+
+# History
+Story points evolved from the XP idea of "Ideal time" and possibly was coined by Ron Jefferies
+* Originate in the late 1990s
+
+Read more about Story point history here: https://ronjeffries.com/articles/019-01ff/story-points/Index.html
 
 ## Continued reading
 * https://martinfowler.com/bliki/StoryPoint.html

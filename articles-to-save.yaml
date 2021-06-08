@@ -202,6 +202,31 @@ articles-to-save:
       - If your company is forcing you to estimate based on hours, don't use story points, drop them and just use hours.
         - Fight this if you can
     Year: 2016
+  
+  - Title: Story Points Revisited
+    Author: Ron Jefferies
+    Blog: Ron Jefferies
+    Category:
+      - Agile
+      - XP
+      - History
+      - Story Pointing
+    Link: https://ronjeffries.com/articles/019-01ff/story-points/Index.html
+    Summary: >
+      - Story points originally come from XP, later adopted by Scrum
+        - Not actually mentioned anywhere in the Scrum guide
+      - Stories were originally estimated in time
+        - Then moved to "ideal days" which was full, unbothered, working days
+        - Ideal days evolved into "points" to limit confusion
+      - Useful specifically to decide how much work to take into an iteration
+      - Do not use story points / velocity to compare teams or try to normalize story points across teams
+      - Story points should be determined using relative estimation
+      - Managers should not try to compare estimated points to actuals values
+        - Should instead focus on value produced, not work done
+      - Story estimates aren't the end all be all. Focus on delivering value, you may not even need story points
+      - Focus on completing small but valuable pieces of work
+        - Practice good story slicing
+    Year: 2019
 
   - Title: Introducing Example Mapping - Video 
     Link: https://www.youtube.com/watch?v=VwvrGfWmG_U
