@@ -16,6 +16,11 @@
 * Story Pointing
     * [Martin Fowler: StoryPoint](https://martinfowler.com/bliki/StoryPoint.html)
 
+## Other PO Videos
+* https://www.youtube.com/watch?v=gCYFmrvPI8Q
+* https://www.youtube.com/watch?v=wINoHEXJ2-M
+* https://www.youtube.com/watch?v=9dccd8lihpQ
+
 ## Ceremonies
 These are the regular meetings which are established in the Scrum Guide
 
