@@ -123,4 +123,12 @@ sites-to-save:
     Summary: >
       A blog on Agile team leadership and DevOps. Has good short articles. 
 
+ - Name: Google's SRE Book
+    Link: https://sre.google/sre-book/table-of-contents/
+    Category:
+      - SRE
+      - DevOps
+    Summary: >
+      Google's ebook on SRE.
+
 ...
