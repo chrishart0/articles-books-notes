@@ -230,4 +230,18 @@ articles-to-save:
 
   - Title: Introducing Example Mapping - Video 
     Link: https://www.youtube.com/watch?v=VwvrGfWmG_U
+
+  - Title: Job Stories Offer a Viable Alternative to User Stories
+    Author: Mike Cohn
+    Blog: Mountain Goat Software
+    Category:
+      - Agile
+      - Story
+    Link: https://www.mountaingoatsoftware.com/blog/job-stories-offer-a-viable-alternative-to-user-stories
+    Summary: >
+      - Job Stories are an acceptable alternative to User Stories
+    Year: 2019
+
+  - Title: Introducing Example Mapping - Video 
+    Link: https://www.youtube.com/watch?v=VwvrGfWmG_U
 ...
