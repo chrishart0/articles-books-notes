@@ -244,4 +244,41 @@ articles-to-save:
 
   - Title: Introducing Example Mapping - Video 
     Link: https://www.youtube.com/watch?v=VwvrGfWmG_U
+
+  - Title: Job Stories Offer a Viable Alternative to User Stories
+    Author: Ron Jeffries
+    Blog: Ron Jeffries
+    Category:
+      - Agile
+      - Story points
+    Link: https://ronjeffries.com/articles/019-01ff/story-points/Index.html
+    Summary: >
+      Key Takeaways
+        - You are what you measure; if management care more about the measure of velocity than value delivered, teams will spend more time focusing on points than on value.
+        - For releases, pick a date and put into it what is done, don't try and pick new features before the release date and squeeze them in
+        - Don't waist time estimating, just slice your stories small, ideally less than a day in size
+        - Story points can be value, but not highly valuable.
+      - Ron Jeffries possibly coined the term *story points*
+      - Story points evolved in this manner in XP: time -> ideal time -> story points
+      - Story points were invested as a way to get managers off the dev team's back asking about why it is taking 3 days to complete something marked as 1 day's worth of work
+      - "Do you really regret they were invented, or do you simply deplore their misuse when relative sizing is not properly understood?"
+        - "I certainly deplore their misuse"
+        - "I think using them to predict 'when we’ll be done' is at best a weak idea;"
+        - "I think tracking how actuals compare with estimates is at best wasteful;"
+        - "I think comparing teams on quality of estimates or velocity is harmful."
+      - Anti-patterns
+        - Comparing teams
+          - Even if a story is the same, 2 teams with 2 different sets of people and 2 different environments will have 2 different tasks in front of them
+        - Managers Tracking estimates
+          - Managers are too tempted to track story points and encourage "better estimating"
+        - Predicting Done
+          - Why spend time trying to predict when something will be done when you could be working on doing the thing?
+      - Most important thing in agile should be "pick the next few things to do, and do them promptly"
+        - "Doing them quickly comes down to doing small slices of high value, and iterating rapidly"
+        - "Story cost estimation doesn’t help much with that, if at all."
+        - "So if the existence of an estimate causes management to take their eye off the ball of value and instead focus on improving estimates, it takes attention from the central purpose, which is to deliver real value quickly."
+      - More value doesn't come from estimates, it comes from doing small, valuable, things frequently
+      - The business may require you to do some form of predicting releases for legitimate reasons
+        - Likely, you won't have stories broken out that far into the future for everything the business wants predicted
+    Year: 2019
 ...
