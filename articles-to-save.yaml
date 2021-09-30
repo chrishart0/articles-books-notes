@@ -253,7 +253,7 @@ articles-to-save:
       - Story points
     Link: https://ronjeffries.com/articles/019-01ff/story-points/Index.html
     Summary: >
-      Key Takeaways
+      - Key Takeaways
         - You are what you measure; if management care more about the measure of velocity than value delivered, teams will spend more time focusing on points than on value.
         - For releases, pick a date and put into it what is done, don't try and pick new features before the release date and squeeze them in
         - Don't waist time estimating, just slice your stories small, ideally less than a day in size
