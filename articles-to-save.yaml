@@ -281,4 +281,13 @@ articles-to-save:
       - The business may require you to do some form of predicting releases for legitimate reasons
         - Likely, you won't have stories broken out that far into the future for everything the business wants predicted
     Year: 2019
+  
+  - Title: Job Stories Offer a Viable Alternative to User Stories
+    Author: Chris Hart
+    Blog: Contino Engineering Blog
+    Category:
+      - Agile
+      - Story points
+    Link: https://medium.com/contino-engineering/you-are-using-story-points-wrong-how-to-make-story-points-suck-less-c641c34ce63
+    Year: 2021
 ...
