@@ -282,7 +282,7 @@ articles-to-save:
         - Likely, you won't have stories broken out that far into the future for everything the business wants predicted
     Year: 2019
   
-  - Title: Job Stories Offer a Viable Alternative to User Stories
+  - Title: You Are Using Story Points Wrong, How to Make Story Points Suck Less
     Author: Chris Hart
     Blog: Contino Engineering Blog
     Category:
@@ -290,4 +290,17 @@ articles-to-save:
       - Story points
     Link: https://medium.com/contino-engineering/you-are-using-story-points-wrong-how-to-make-story-points-suck-less-c641c34ce63
     Year: 2021
+
+  - Title: Behind Every Great Product
+    Author: Marty Cagan
+    Blog: Silicon Valley Product Group
+    Category:
+      - Product
+      - Product Manager
+    Link: https://svpg.com/behind-every-great-product/
+    Summary: >
+      - Product Owner and Product Manager are not the same thing
+        - There is a lot of confusion out there about this
+      - Examples of good product managers
+    Year: 2016
 ...

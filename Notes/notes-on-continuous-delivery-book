@@ -1,0 +1,11 @@
+## Chapter 1
+
+### **Releasing Software should be easy and quick.**
+* Easy because every change has been tested hundreds of times automatically
+* Quick because it's as simple as pressing a button and waiting
+
+* No "release candidates"
+    * Every commit should lead to a potential release.
+* Saving testing for the end of the process leaves you no time to fix most of the bugs
+    * "Leaving testing until the end normally means that there is no time to actually fix the bugs, or that only a small proportion of them can be fixed."
+* "In software, when something is painful, the way to reduce the pain is to do it more frequently, not less."
