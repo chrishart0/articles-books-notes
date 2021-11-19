@@ -53,6 +53,7 @@ INVEST are a set of criteria which describe a good user story.
 * Small
 * Testable
 
+Not all INVEST criteria are made the same. In the beginning, there was independence and the devs negotiated the best solution with the customer, and it was good. Then sprint planning came, and independence, Valuable, small, and testable became most important, and the negotiableness was lessened, and it was still good.
 ## Vertical Slices
 
 All the work required to deliver an increment of  value, this is what a vertical slice is. That may mean touching many layers of the application or it may mean only touching one layer, whatever is required to deliver value.
@@ -67,7 +68,7 @@ What we can contrast vertical slices with horizontal slices. A horizontal slice 
 
 Remember the INVEST criteria. In order to make all stories valuable vertical slicing is requisite. 
 
-Not all INVEST criteria are made the same. In the beginning, there was independence and the devs negotiated the best solution with the customer, and it was good. Then sprint planning came, and independence, Valuable, small, and testable became most important, and the negotiableness was lessened, and it was still good.
+
 
 The point is, the further out a story is from being started, the less details we want. As the team gets closer to picking up a story, they need to be working out the technical details and having the needed conversation with the customer and business to assure there will be no blockers when the story is picked up. In this way, the story is highly negotiable in the beginning, as the story gets closer to being started the story become less negotiable but an accurate estimate become more reasonable and the ability to deploy the story independently and delivering value becomes more possible.
 
