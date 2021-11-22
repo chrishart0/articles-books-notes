@@ -23,7 +23,7 @@ Note that no where in the user story are there are requirements for how to imple
 #### Story Formats
 
 There are a few formats that help us to answer these questions. 
-
+* Stories cannot be properly prioritized if they are not independent
 
 ##### Narrative
 Typically there will be a narrative to answer *who, what and why* then Acceptance Criteria to answer *how do I know I'm done*.
@@ -46,14 +46,62 @@ What template is used by the team is not important. What is important is that th
 
 INVEST are a set of criteria which describe a good user story. 
 
-* Independent
-* Negotiable
-* Valuable
-* Estimable
-* Small
-* Testable
+### Independent
+To the greatest extent, dependencies should be avoided. 
+
+#### Example
+This example is rephrased from (User Stories Applied by Cohn)[https://www.mountaingoatsoftware.com/books/user-stories-applied]
+
+The team is building functionality to handle credit card payments to checkout a shopping cart. The team must handle Visa, Mastercard, and American Express. The team splits this into 3 user stories:
+* Handle payments with Visa cards
+* Handle payments with Mastercard
+* Handle payments with American Express
+
+The devs estimate the first of any of these 3 stories will be 3 story points, the following 2 will each be 1 story point. How can we handles this scenario? The business value for each is clear but it seems there is some underlying technical work which needs a home. Many teams would be tempted to create a "technical story" or "tech enabler" to solve for this, remember though, a user story always focuses on delivering business value. Instead, here are few better options:
+
+1) Combine all 3 stories, so long as they single story still fits within 1 iteration
+2) Less details when defining the story
+    * "A customer can pay with one type of credit card" to be followed by "a customer can pay with the two additional credit card types"
+3) The simple approach, include 2 estimates in each story. 1 estimate to be used if it is the first CC processing story and another estimate to be used if it is not
+
+### Negotiable
+User stories are not contracts. User stories are short descriptions of functionality, from the perspective of the user, the details of which should be negotiated as late as is responsible between the developers and the customer. 
+
+Notes on the conversations had between the customer and the developers should be maintained, but these are not a contract. 
+
+User stories can be thought of "as a reminder for the devs and customer to have a conversation."
+
+Details can be recorded in notes and should be written out as tests(acceptance criteria). 
+
+"You built exactly what I asked for but it's not what I wanted."
+
+"I worked with a team that was developing software for delivering surveys. Each survey would be delivered over the phone, via email, and via interactive voice response. Different types of users would us different survey types. The surveys were very complicated: specific answers to one set of questions would determine which question would be asked next. The users needed a way to enter the surveys and they presented the development team with examples of a complicated mini-language they proposed to formulate questions. This entirely text-based approach seemed needlessly complicated to one of the developers. The developer showed the user how they could instead create surveys visually by dragging and dropping icons that represented different types of questions in a survey. The users ripped up their mini-language and worked with the developer to create a visual survey design tool. Just because the users had the problem does not mean they were uniquely qualified to propose its solution." (Cohn - User Stories Applied)[https://www.mountaingoatsoftware.com/books/user-stories-applied]
+
+![](./assets/good-user-stories/ford-quote.jpg)
+
+### Valuable
+Each user story must be valuable. That does not mean the user story has to be valuable to the end user, but every user story does need to provide business value. For example, a specific end user may not care if the software is GDPR compliant but the business certainly does, therefore, a user story applying GDPR requirements can be a viable user story. 
+
+Avoid user stories which are only valued by the devs. 
+
+Examples from (Cohn - User Stories Applied)[https://www.mountaingoatsoftware.com/books/user-stories-applied]
+**Bad: Dev focused**: 
+* All connections to the DB are done through a connection pool 
+* All error handling and logging is done through a set of common classes
+
+**Good: User focused**:
+* Up to 50 users should be able to use the application with a 5 user database license
+* All errors are presented to the user and logged in a consistent manner
+
+### Estimable
+### Small
+### Testable
+
+When a story is newly written and far away from being picked up the negotiableness is more important. When a story is getting ready to be pulled into a sprint it is most important that the story is independent, valuable, and testable.
 
 Not all INVEST criteria are made the same. In the beginning, there was independence and the devs negotiated the best solution with the customer, and it was good. Then sprint planning came, and independence, Valuable, small, and testable became most important, and the negotiableness was lessened, and it was still good.
+
+
 ## Vertical Slices
 
 All the work required to deliver an increment of  value, this is what a vertical slice is. That may mean touching many layers of the application or it may mean only touching one layer, whatever is required to deliver value.
