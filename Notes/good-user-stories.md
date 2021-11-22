@@ -109,7 +109,8 @@ As I see it, our goals are twofold:
 
 Story splitting is a critical tool in achieving these goals. Story splitting allows the team to get small stories, allowing us to achieve those goals. 
 
-
+## When do we capture the details?
+![Uncertainty_Story_Requirements graph](./assets/good-user-stories/Uncertainty_Story_Requirements.jpg)
 
 
 More Resources
