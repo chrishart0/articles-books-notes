@@ -314,4 +314,18 @@ articles-to-save:
       - Story Splitting
       - Agile
     Link: https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/
+
+  - Title: Maximizing Developer Effectiveness 
+    Author: 
+      - Tim Cochran
+    Blog: Martin Fowler
+    Category:
+      - DevEx
+      - DevOps
+      - Agile
+    Link: https://martinfowler.com/articles/developer-effectiveness.html
+    year: 2021
+    Summary: >
+      - Focus on Developer Expirience
+      - Bad DevEx is the reason so many DevOps / Agile adoptions fail
 ...
